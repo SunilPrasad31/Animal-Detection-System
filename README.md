@@ -32,7 +32,8 @@ The Animal Detection System is a software application designed to detect and cla
 4. **Output**: View detection results either directly within the application interface or through generated output files.
 
 ## Dataset
-Drive Link - https://drive.google.com/drive/folders/1k3EXTXvXUwr6UjYSK-AN8lMPXUWrFApO?usp=drive_link
+Drive Link - https://drive.google.com/drive/folders/1k3EXTXvXUwr6UjYSK-AN8lMPXUWrFApO
+
 ## Contributing
 Contributions to the Animal Detection System are welcome. To contribute:
 - Fork the repository.
